@@ -6,18 +6,7 @@
 .wid {
   width: 400px;
 }
-.left-arrow {
-  top: 0;
-  bottom: 0%;
-  left: -60px;
-  right: 0%;
-}
-.right-arrow {
-  top: 0;
-  bottom: 0%;
-  left: -60px;
-  right: 0%;
-}
+
 @media screen and (max-width: 768px) {
   .grid {
     display: grid;
